@@ -1,2 +1,11 @@
-#https://baijiahao.baidu.com/s?id=1731433912605312562&wfr=spider&for=pc&searchword=%E9%95%BF%E6%B2%99%E6%88%BF%E5%B1%8B%E5%80%92%E5%A1%8C%E4%BA%8B%E4%BB%B6
-baijiahao.baidu.com##div[style="left: 50%; transform: translate(-50%, 0%);"]
+baijiahao.baidu.com##div[style="left: 50%; transform: translate(-50%, 0%);"] 
+baijiahao.baidu.com##div[class="headDeflectorContainer"]
+baijiahao.baidu.com##div[class="_2pAQdW0IKWK9Gls6a_Vbh"]
+#上面三条是拦截百度百家号中的一些广告组件
+www.baidu.com##div[style="overflow: hidden;background: #fff;position: relative;"]#拦截手机百度的流动广告
+www.baidu.com###tab_news_1#拦截手机百度下面的多余推荐
+www.baidu.com##td[align="left"]#拦截pc搜索框右边的热搜榜
+www.cnbeta.com##div[id="abd-ad-iframe-wrapper"]
+www.cnbeta.com##div[id="dhHjAhtdCw"]
+www.cnbeta.com##div[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
+#拦截cnBeta的广告
